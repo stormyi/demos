@@ -14,6 +14,6 @@ public class DemoApplication {
 	}
 	@RequestMapping("/")
 	public String hello() {
-		return "WTF";
+		return "GIT WTF";
 	}
 }
